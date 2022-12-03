@@ -1,8 +1,12 @@
 Python Implementation of Apriori Algorithm 
 ==========================================
 
-## Open workspace in your browser
+## Set up
+
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://argaputra12-apriori-algorithm-streamlit-eqnu4t.streamlit.app/)
 <a href="https://github1s.com/argaputra12/apriori-algorithm"><img src="https://cdn-icons-png.flaticon.com/512/331/331190.png" width="25"></a>
+
 
 Running the Streamlit app locally
 -----
