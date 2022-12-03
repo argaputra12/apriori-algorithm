@@ -154,7 +154,11 @@ if __name__=="__main__":
     minConfidence = options.minC
 
     items, rules = runApriori(inFile, minSupport, minConfidence)
-
+    print(f"""
+        Minimum support: {minSupport}
+        Minimum confidence: {minConfidence}
+        \n
+    """)
     printResults(items, rules)
 
     
